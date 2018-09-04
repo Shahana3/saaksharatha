@@ -1,0 +1,44 @@
+.navbar {
+  margin-bottom: 0;
+  top: 135px;
+  position: absolute;
+}
+
+img{
+	height: 135px;
+	width: 435px;
+}
+
+.navbar-default{
+	background-color: #3399ff;
+	border-color: #3399ff;
+}
+
+.navbar {
+    background-color: #3399ff;
+    z-index: 2;
+    font-size: 16px;
+    border: 0;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+}
+
+.navbar li a{
+    color: #fff !important;
+    font-family: Times;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #3399ff !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+
+
+
+
